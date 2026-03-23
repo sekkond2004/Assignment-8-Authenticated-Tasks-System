@@ -55,3 +55,5 @@ task-management-api/
 ├── .env            # Environment variables
 └── README.md       # This file
 ```
+
+### Postman tests link: https://nguyen-ekko-4110423.postman.co/workspace/Ekko-Nguyen's-Workspace~3e63061b-f179-44ba-8e4f-e1de8950bbe9/collection/52611259-e13afce0-68df-4af1-8f20-b0777da0bfa1?action=share&source=copy-link&creator=52611259
